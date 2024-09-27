@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
-global.ytname = "YT: GlobalTechInfo"
+global.ownernomer = "919207278115"
+global.ownername = "- ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ: JUNAID"
+global.ytname = "YT: MR.LUTTAPI"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "kerala, thalassery, Kannur"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '919207278115'  //creator number
+global.ownername = '- ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ: JUNAID' //owner name
+global.botname = 'Avus bot-V2' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'GlobalTech\n\nContact: +919207278115'
 
 //console view/theme
 global.themeemoji = '🪀'
