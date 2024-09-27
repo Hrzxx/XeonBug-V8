@@ -17,7 +17,7 @@ global.socialm = "GitHub: GlobalTechInfo"
 global.location = "kerala, thalassery, Kannur"
 
 global.ownernumber = '919207278115'  //creator number
-global.ownername = '- ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ: JUNAID' //owner name
+global.ownername = 'JUNAID' //owner name
 global.botname = 'Avus bot-V2' //name of the bot
 
 //sticker details
